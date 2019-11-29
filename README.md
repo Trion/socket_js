@@ -15,6 +15,6 @@ javascript with socket.io
    ```
     
 4. App in http://localhost:80
-   ```
+  
   ![Socket photo] /demo.png
-   ```
+  
