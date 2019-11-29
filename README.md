@@ -17,5 +17,5 @@ javascript with socket.io
 4. App in http://localhost:80
   
   ![Socket photo] (/demo.png)
-  Format: ![Alt Text](url)
+  Format: ![Demo](https://github.com/Trion/socket_js/blob/master/demo.png)
   
