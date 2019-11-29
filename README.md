@@ -15,6 +15,5 @@ javascript with socket.io
    ```
     
 4. App in http://localhost:80
-   ```
   ![Demo](https://github.com/Trion/socket_js/blob/master/demo.png)
-   ```
+   
